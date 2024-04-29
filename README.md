@@ -32,5 +32,10 @@
          <td>on-doing</td>
          <td>Locator is a versatile and efficient service designed to provide real-time location information based on user IP addresses.</td>
        </tr>
+       <tr>
+         <td><a href='https://github.com/thisisnabi/Feedback'>🐾 Feedback</a></td>
+         <td>on-doing</td>
+         <td>Rate and review system implementation in ASP.NET Core</td>
+       </tr>
     </tbody>
 </table>
